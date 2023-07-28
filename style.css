@@ -219,16 +219,6 @@
 .c9div5{grid-area: div5; background-color:var(--orange3) ; }
 
 
-div{
-    transition: ease-in 0.1s;
-}
-div>div:hover{
-    box-shadow:inset 0 0 5px 5px rgba(10, 10, 10, 0.821);
-}
-hr{
-    background-color: white;
-}
-
 
 
 
